@@ -20,14 +20,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ## List of Prerequisites
 
-1. [Create a virtual machine in Azure and access it using Remote Desktop]
-
-2. [Access the required installation files]
-3. [Enable IIS and subsequent features in Windows VM]
-4. [Download and install the required installation files]
-5. [Setup osTicket]
-6. [Access your osTicket helpdesk admin login and end-user page]
-7. [Clean up your setup and permissions]
+1. Create a virtual machine in Azure and access it using Remote Desktop
+2. Access the required installation files
+3. Enable IIS and subsequent features in Windows VM
+4. Download and install the required installation files
+5. Setup osTicket
+6. Access your osTicket helpdesk admin login and end-user page
+7. Clean up your setup and permissions
 
 ## Installation Steps
 
