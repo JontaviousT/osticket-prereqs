@@ -20,14 +20,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ## List of Prerequisites
 
-1. [Create a virtual machine in Azure and access it using Remote Desktop](https://github.com/jontavioust/osTicket-Prereqs-Installation#create-a-virtual-machine-in-azure-and-access-it-using-remote-desktop)
+1. [Create a virtual machine in Azure and access it using Remote Desktop]
 
-2. [Access the required installation files](https://github.com/jontavioust/osTicket-Prereqs-Installation#access-the-required-installation-files) 
-3. [Enable IIS and subsequent features in Windows VM](https://github.com/jontavioust/osTicket-Prereqs-Installation#enable-iis-and-subsequent-features-in-windows-vm)
-4. [Download and install the required installation files](https://github.com/jontavioust/osTicket-Prereqs-Installation#download-and-the-install-the-required-installation-files)
-5. [Setup osTicket](https://github.com/jontavioust/osTicket-Prereqs-Installation#setup-osticket)
-6. [Access your osTicket helpdesk admin login and end-user page](https://github.com/jontavioust/osTicket-Prereqs-Installation#access-your-helpdesk-admin-login-and-end-user-page)
-7. [Clean up your setup and permissions](https://github.com/jontavioust/osTicket-Prereqs-Installation#clean-up-your-setup-and-permissions)
+2. [Access the required installation files]
+3. [Enable IIS and subsequent features in Windows VM]
+4. [Download and install the required installation files]
+5. [Setup osTicket]
+6. [Access your osTicket helpdesk admin login and end-user page]
+7. [Clean up your setup and permissions]
 
 ## Installation Steps
 
