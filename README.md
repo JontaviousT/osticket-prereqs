@@ -125,7 +125,7 @@ https://github.com/jontavioust/osTicket-Prereqs-Installation/assets/101889571/4d
 <p> VM-osTicket -> Sites -> Default Website -> osTicket -> On the right, click “Browse *:80”. The osTicket installation page will populate in the Edge browser.</p>
 
 > **Note:**
-> If you receive an error in Edge, check to see if you properly [registered PHP from within IIS's PHP manager](https://github.com/jontavioust/osTicket-Prereqs-Installation#run-iis-as-an-admin--register-php-from-within-iis).  
+> If you receive an error in Edge, check to see if you properly registered PHP from within IIS's PHP manger. 
 
 #### Enable PHP extensions
 https://github.com/jontavioust/osTicket-Prereqs-Installation/assets/101889571/6c35aa76-de1a-4a45-accd-92600fa9bb3c
